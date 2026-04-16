@@ -1,0 +1,2 @@
+# MSB2MIDI
+音乐通MITONE机器里的msb文件格式解析成midi
